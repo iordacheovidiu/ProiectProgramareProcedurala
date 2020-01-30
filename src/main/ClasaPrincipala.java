@@ -7,5 +7,4 @@ public class ClasaPrincipala {
 		m.method1(); //apeleaza metoda method1 din class
 		m.method2(); //apeleaza metoda method2 din class
 	}
-
 }
