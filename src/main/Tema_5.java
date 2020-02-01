@@ -8,7 +8,7 @@ public class Tema_5 {
 		
 			for(i = 1; i < n; i++) {
 				
-				fact = fact * n;
+				fact = fact * i;
 			}				
 System.out.println("n!= " + fact);	
 			
